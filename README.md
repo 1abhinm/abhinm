@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhin M</h1>
 <h3 align="center">A passionate android developer from India</h3>
-<img align="center" alt="coding" width="100%" src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=996&t=st=1682694933~exp=1682695533~hmac=3c1ccf0d1527a86b98e552274951068073338bd5639923cfd071b11c071b01a7"
+<img align="center" alt="coding" width="100%" height="350px" src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=996&t=st=1682694933~exp=1682695533~hmac=3c1ccf0d1527a86b98e552274951068073338bd5639923cfd071b11c071b01a7"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinm&label=Profile%20views&color=0e75b6&style=flat" alt="abhinm" /> </p>
 
